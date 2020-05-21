@@ -21,4 +21,4 @@
 #git rm --cached path/to/file
 #Однако, стоит быть осторожнее с командой git rm.
 
-help/
+#help/
